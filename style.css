@@ -23,4 +23,7 @@ img {
   margin-right: auto;
 }
 
-
+figcaption {
+  font-size: 5;
+  text-align: center;
+}
