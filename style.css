@@ -35,9 +35,9 @@ section > p {
   margin-right: auto;
 }
 
-details {
+#details {
   display: block;
-  text-align: 
+  float: left;
 }
 
 details > div {
