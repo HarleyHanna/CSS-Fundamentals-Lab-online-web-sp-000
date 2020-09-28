@@ -35,3 +35,8 @@ section > p {
   margin-right: auto;
 }
 
+details {
+  display: block;
+  
+}
+
