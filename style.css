@@ -38,6 +38,7 @@ section > p {
 #details > div {
   display: block;
   float: left;
+  text-align: center;
 }
 
 details > div {
